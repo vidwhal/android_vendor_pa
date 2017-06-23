@@ -1,0 +1,62 @@
+[
+  {
+    "repository":   "LineageOS/android_device_samsung_hlte-common",
+    "target_path":  "device/samsung/hlte-common",
+    "remote":       "github",
+    "revision":     "cm-14.1"
+  },
+  {
+    "target_path":  "vendor/samsung",
+    "repository":   "TheMuppets/proprietary_vendor_samsung",
+    "remote":       "github",
+    "revision":     "cm-14.1"
+  },
+  {
+    "target_path":  "device/samsung/hlte",
+    "repository":   "LineageOS/android_device_samsung_hlte",
+    "remote":       "github",
+    "revision":     "cm-14.1"
+  },
+  {
+    "target_path":  "device/samsung/msm8974-common",
+    "repository":   "LineageOS/android_device_samsung_msm8974-common",
+    "remote":       "github",
+    "revision":     "cm-14.1"
+  },
+  {
+    "target_path":  "kernel/samsung/hlte",
+    "repository":   "LineageOS/android_kernel_samsung_hlte",
+    "remote":       "github",
+    "revision":     "cm-14.1"
+  },
+  {
+    "target_path":  "external/stlport",
+    "repository":   "LineageOS/android_external_stlport",
+    "remote":       "github",
+    "revision":     "cm-14.1"
+  },
+  {
+    "target_path":  "device/samsung/qcom-common",
+    "repository":   "LineageOS/android_device_samsung_qcom-common",
+    "remote":       "github",
+    "revision":     "cm-14.1"
+  },
+  {
+    "target_path":  "device/qcom/common",
+    "repository":   "LineageOS/android_device_qcom_common",
+    "remote":       "github",
+    "revision":     "cm-14.1"
+  },
+  {
+    "target_path":  "hardware/samsung",
+    "repository":   "LineageOS/android_hardware_samsung",
+    "remote":       "github",
+    "revision":     "cm-14.1"
+  },
+  {
+    "target_path":  "packages/resources/devicesettings",
+    "repository":   "LineageOS/android_packages_resources_devicesettings",
+    "remote":       "github",
+    "revision":     "cm-14.1"
+  }
+]
